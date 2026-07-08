@@ -1,0 +1,11 @@
+earthengine-api
+geopandas
+rasterio
+shapely
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+transformers
+huggingface_hub

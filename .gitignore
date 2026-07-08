@@ -1,0 +1,24 @@
+# Data & model artifacts (too large / not redistributable)
+*.tif
+*.tiff
+*.pt
+*.pth
+*.parquet
+*.gpkg
+*.geojson
+*.shp
+*.shx
+*.dbf
+*.prj
+patch_cache/
+outputs/
+data/
+
+# Notebook & Python cruft
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+*.token
