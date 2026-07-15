@@ -41,10 +41,6 @@ Notebooks are designed for Google Colab with an A100 GPU and Google Drive persis
 pip install -r requirements.txt
 ```
 
-## Status
-
-Research complete. The accompanying manuscript was taken through eight revision cycles to submission-ready state as independent undergraduate research (Jackson School of Geosciences, UT Austin).
-
 ## Reference
 
 Láng-Ritter, J., et al. (2025). Global gridded population datasets systematically underrepresent rural population. *Nature Communications*.
